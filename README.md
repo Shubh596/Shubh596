@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubh596
+- 👋 Hi, I’m Shubham Pandey
 - 👀 I’m interested in learning new things..
 - 🌱 I’m currently learning Full Stack Web Developer..
 - 💞️ I’m looking to collaborate on Youtube Clone..
