@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Pandey
 - 👀 I’m interested in learning new things..
-- 🌱 I’m currently learning Full Stack Web Developer..
+- 🌱 I’m currently learning Full Stack Web Development..
 - 💞️ I’m looking to collaborate on Youtube Clone..
 - 📫 How to reach me ...+918707435856
 
