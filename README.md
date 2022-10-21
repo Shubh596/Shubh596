@@ -5,7 +5,7 @@
     </div>
     <div>
         <img align="center"
-  width="100%"
+  width="80%"
   height="300px"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Developer Shubham">
     </div>
 
