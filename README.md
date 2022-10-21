@@ -5,8 +5,12 @@
     </div>
     <div>
         <img 
+  align="center"
   width="70%"
-  height="300px" margin:"auto"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Developer Shubham">
+  height="300px"
+  margin:"auto"
+  margin-left: "50px"
+  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Developer Shubham">
     </div>
 
 </div>
