@@ -4,9 +4,9 @@
         <h3 align="center">Full Stack web Developer</h3>
     </div>
     <div>
-        <img align="center"
-  width="80%"
-  height="300px" margin:"auto" display:"block"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Developer Shubham">
+        <img 
+  width="70%"
+  height="300px" margin:"auto"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Developer Shubham">
     </div>
 
 </div>
