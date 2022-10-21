@@ -1,12 +1,12 @@
 <div style="display:flex; justify-content: space-evenly; align-items: center; ">
     <div style="line-height: 20px;">
-        <h1 align="center" style="font-size:55px ;">Shubham Pandey</h1>
-        <h3 align="center" style="font-size:30px ;">Full Stack web Developer</h3>
+        <h1 align="center">Shubham Pandey</h1>
+        <h3 align="center">Full Stack web Developer</h3>
     </div>
     <div>
         <img align="center"
   width="100%"
-  height="300px"  style="width:600px; border-radius: 25px; "  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Developer Shubham">
+  height="300px"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Developer Shubham">
     </div>
 
 </div>
