@@ -4,6 +4,10 @@ name is Shubham Pandey
 ======================================================================================================================================
 Full Stack Web Developer 
 ------------------------ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh596&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh596" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubh596" alt="shubh596" /></a> </p>
+
 * 🖥️  See my portfolio at [http://shubh596.github.io](http://shubh596.github.io) 
 * ✉️  You can contact me at [pandeyaashu4@gmail.com](mailto:pandeyaashu4@gmail.com) 
 * 🧠  I'm learning Full Stack Web Development
@@ -134,16 +138,16 @@ Full Stack Web Developer
 
 
 <a href="http://www.github.com/Shubh596" >
-<img src="https://github-readme-stats.vercel.app/api?username=Shubh596&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true"
+<img style="border:1px solid" src="https://github-readme-stats.vercel.app/api?username=Shubh596&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true"
     alt="Shubh596's GitHub stats"/></a>
 
-<a href="http://www.github.com/Shubh596"><img
+<a href="http://www.github.com/Shubh596"><img style="border:1px solid"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh596&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true"/></a>
 
 <a href="http://www.github.com/Shubh596"><img
     src="https://activity-graph.herokuapp.com/graph?username=Shubh596&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"/></a>
 
-<a href="https://github.com/Shubh596" align="left"><img
+<a href="https://github.com/Shubh596" align="left"><img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh596&langs_count=10&title_color=0891b2&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages"
     alt="Top Languages"/></a>
