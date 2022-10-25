@@ -4,13 +4,13 @@ name is Shubham Pandey
 ======================================================================================================================================
 Full Stack Web Developer 
 ------------------------  -->
-<h1 style="text-align:center" >Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">My
+<h1 align="center" >Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="">My
     name is Shubham Pandey</h1>
-    <h2 style="text-align:center" >Full Stack Web Developer</h2>
+    <h2 align="center" >Full Stack Web Developer</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubh596&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh596" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh596&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh596" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubh596" alt="shubh596" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubh596" alt="shubh596" /></a> </p>
 
 * 🖥️  See my portfolio at [http://shubh596.github.io](http://shubh596.github.io) 
 * ✉️  You can contact me at [pandeyaashu4@gmail.com](mailto:pandeyaashu4@gmail.com) 
@@ -21,7 +21,7 @@ Full Stack Web Developer
 
 ### Skills
 
-<p align="center">
+<p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -101,7 +101,7 @@ Full Stack Web Developer
 
 ### Socials
 
-<p align="center">
+<p align="left">
   <a
     href="https://codesandbox.io/u/pandeyaashu4"
     target="_blank"
