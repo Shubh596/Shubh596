@@ -98,7 +98,6 @@ Full Stack Web Developer
       alt="MongoDB"
   /></a>
 </p> -->
-
 <h2 align="left">Languages and Tools:  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"> </h2>
 
 <p> 
