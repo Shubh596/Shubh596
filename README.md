@@ -167,7 +167,7 @@ Full Stack Web Developer
 
 
 <a href="http://www.github.com/Shubh596">
-<img align="center" style="border:1px solid" src="https://github-readme-stats.vercel.app/api?username=Shubh596&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true"
+<img align="center" border=1px src="https://github-readme-stats.vercel.app/api?username=Shubh596&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true"
     alt="Shubh596's GitHub stats"/></a>
 
 </br>
