@@ -177,7 +177,7 @@ Full Stack Web Developer
 
 </br>
 
-<a href="http://www.github.com/Shubh596"><img align="center" style="border:1px solid" style="background-color: rgb(21, 20, 20)"
+<a href="http://www.github.com/Shubh596"><img align="center" border=1px solid
     src="https://activity-graph.herokuapp.com/graph?username=Shubh596&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"/></a>
 
