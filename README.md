@@ -182,8 +182,8 @@ Full Stack Web Developer
 <a href="http://www.github.com/Shubh596"><img align="center" 
     src="https://activity-graph.herokuapp.com/graph?username=Shubh596&bg_color=404040&color=ffffff&line=00cccc&point=000000&area_color=00cccc&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"/></a>
-
-    <br>
+</br>
+   </br>
 
 <a href="https://github.com/Shubh596" align="center"><img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh596&langs_count=10&title_color=00cccc&text_color=FFFFFF&icon_color=f97316&bg_color=404040&hide_border=true&locale=en&custom_title=Top%20%Languages"
