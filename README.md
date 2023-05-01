@@ -12,8 +12,8 @@ Full Stack Web Developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubh596" alt="shubh596" /></a> </p>
 
-<!-- * 🖥️  See my portfolio at [http://shubh596.github.io](http://shubh596.github.io)  -->
-See my portfolio at <a href="http://shubh596.github.io">Click </a>
+* 🖥️  See my portfolio at [https://shubh596.github.io/](https://shubh596.github.io/) 
+<!-- See my portfolio at <a href="http://shubh596.github.io">Click </a> -->
 * ✉️  You can contact me at [pandeyaashu4@gmail.com](mailto:pandeyaashu4@gmail.com) 
 * 🧠  I'm learning Full Stack Web Development
  * 🤝  I'm open to collaborating on New Projects
